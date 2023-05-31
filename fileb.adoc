@@ -1,0 +1,6 @@
+= doc B
+
+[#linkdocb]
+this is a text with the linkdocb id/reference
+
+xref:filea.adoc#linkdoca[go to linkdoca in filea.adoc]
