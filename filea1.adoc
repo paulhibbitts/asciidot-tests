@@ -1,6 +1,6 @@
 = doc A
 
 [#linkdoca]
-this is a text with the linkdoca id/reference
+this is a text with a simple link
 
 xref:fileb.adoc[go to linkdocb in fileb.adoc]
